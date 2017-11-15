@@ -132,4 +132,5 @@ function errorPostFunction( accumulatedError ) {
 ## Credits
 
 (c) 2015 Ricky Reusser. MIT License
+
 (c) 2017 Timothy Luciani. MIT License
